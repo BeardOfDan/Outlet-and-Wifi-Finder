@@ -1,0 +1,22 @@
+{
+  "name": "outlet-and-wifi-finder",
+  "version": "1.0.0",
+  "description": "An app that locates publicly available electrical outlets and wifi, particularly, ones that are available 24/7. Primarily good for when dealing with a power outage, but also good for tech 'meetups'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeardOfDan/Outlet-and-Wifi-Finder.git"
+  },
+  "author": "Dan Roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeardOfDan/Outlet-and-Wifi-Finder/issues"
+  },
+  "homepage": "https://github.com/BeardOfDan/Outlet-and-Wifi-Finder#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
